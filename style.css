@@ -14,6 +14,14 @@ body{
        width: 40%;
        margin-left: 10%;
 }
+.width-third{
+       width: 50%;
+       margin-left:10%;
+}
+.width-first{
+       width: 40%;
+       margin-left:10%;
+}
 .margin-box{
        width:25% ;
        margin: 0 auto;
@@ -21,14 +29,7 @@ body{
 .margin-top{
        margin-top: 5%;
 }
-.width-third{
-       width: 50%;
-       margin-left:10%;
-}
-.width-first{
-       width: 40;
-       margin-left:10%;
-}
+
 img{
        max-width: 100%;
 

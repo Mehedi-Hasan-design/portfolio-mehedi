@@ -1,0 +1,181 @@
+/********* Common CSS  start**************/
+body{
+       padding: 0;
+       margin: 0;
+}
+*{
+       box-sizing: border-box;
+}
+.diplay-flex{
+       display: flex;
+      
+}
+.width-half{
+       width: 40%;
+       margin-left: 10%;
+}
+.width-third{
+       width: 50%;
+       margin-left:10%;
+       text-align: justify;
+}
+.width-first{
+       width: 40;
+       margin-left:10%;
+}
+.margin-tripple{
+       width:25% ;
+       margin: 0 auto;
+}
+.margin-top{
+       margin-top: 5%;
+}
+
+img{
+       max-width: 100%;
+
+}
+.image-section{
+       width: 400px;
+       height: 400px;
+       text-align: center;
+}
+.image-section img{
+      border-radius: 5%;
+}
+.sub-desc{
+       
+       font-family: 'Poppins', sans-serif;
+       color: #3e3e3e;
+       font-size: 20px;
+       margin-bottom: 20px;         
+}
+.btn{    
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        display: inline-block;
+        padding: 13px 30px;
+        background: #ff5959;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;      
+}
+
+
+.section-title{
+       font-size: 48px;
+       font-family: 'Poppins', sans-serif;
+       font-weight: 700;
+       color: #13103A;
+       text-align: center;
+
+}
+/********* Common section CSS  end **************/
+
+/********* Hero section CSS  start **************/
+.hero-section{
+       margin-top: 50px;
+       margin-bottom: 50px;
+}
+.hero-title{
+       font-family: 'Yeseva One', cursive;
+       color: #333333;
+       font-weight:  400px;
+       font-size: 55px;
+       margin-left: 10px;
+       letter-spacing: 3px;
+      
+}
+.hero-tex{
+       border-left: 5px solid #ff5959;
+}.hero-tex h1{
+       line-height:150%;
+}
+.mission-text{
+       color: #FFAD5A;
+}
+/********* Hero section CSS  end **************/
+
+/********* Mission section CSS start **************/
+.my-mission-section{
+       margin-bottom: 90px;
+}
+.mission-section img{
+       width: 100px;
+       height: 100px;
+}
+.mission-section h4{
+       font-size: 24px;
+       font-family: 'Poppins', sans-serif;
+       font-weight: 600;
+       margin-top: 20px;
+       margin-bottom: 20px;
+}
+.mission-section{
+       padding:20px;
+       border-radius: 5%;
+}
+.color-1{
+       background: #FFEEEE;
+}
+.color-2{
+       background: #FFF4D6;
+}
+.color-3{
+       background: #EDF5F6;
+}.mission-22{
+       color: #FFAD5A;
+}
+.margin-left{
+       margin-left: -110px;
+}
+.margin-right{
+       margin-right: 10%;
+}
+/********* Hero section CSS  end **************/
+
+/********* Blog section CSS  start **************/
+
+ .blog-section-title{
+       font-size: 30px;
+       font-family: 'Poppins', sans-serif;
+       font-weight: 700;
+       color: #333333;
+ }
+.Build-section{
+       margin-bottom: 300px;
+}
+.Build-section img{
+       width: 900px;
+       height: 500px;
+}
+.partner-img img{
+       height: 250px;
+       border-radius: 5%;
+}
+/********* Hero section CSS  end **************/
+
+/********* Footer section CSS  start **************/
+
+footer{
+       background: #0B0D17;
+       color: white;
+       margin-top:-200px ;
+       text-align: center;
+       padding: 30px 40px ;
+}
+footer h2{     
+       font-family: 'Lobster', cursive;
+       font-size: 40px;
+       letter-spacing: 3px;
+
+}
+.mission-22{
+       color: #ff5959;
+}
+footer p{
+       font-family: 'Manrope', sans-serif;
+       font-size: 18px;
+       color: #D9DBE1;
+}
+/********* Footer section CSS  end **************/
